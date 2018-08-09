@@ -48,6 +48,7 @@ $ git clone git@github.com:alexisllamas/order_elements.git
 $ yarn
 ```
 
+### Start the app
 
 ```
 $ yarn start
